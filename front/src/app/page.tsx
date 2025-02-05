@@ -39,7 +39,7 @@ export default function Home() {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen p-4 bg-gray-100">
-        <h1 className="text-3xl font-bold mb-6">AI Diet & Lifestyle Planner</h1>
+        <h1 className="text-3xl font-bold mb-6">AI Diet & Lifestyle Planner app</h1>
 
         <form onSubmit={handleSubmit} className="w-full max-w-md p-4 bg-white shadow-lg rounded-lg">
             <input
